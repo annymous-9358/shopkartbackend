@@ -17,7 +17,7 @@ import productRoutes from './routes/product.routes.js';
 import orderRoutes from './routes/order.routes.js';
 import userRoutes from './routes/user.routes.js';
 import reviewRoutes from './routes/review.routes.js';
-import cartRoutes from './routes/cart.routes.js'; 
+import cartRoutes from './routes/Cart.routes.js'; 
 // Connect to MongoDB
 connectDB();
 
